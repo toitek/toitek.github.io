@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              MY PORTFOLIO
+email:              issawandhe@gmail.com
+description:        portfolio for toitek
+author:             toitek
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://toitek.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   tec_toi
+github_username:    toitek
+facebook_username:  toitek
 instagram_username:  
 linkedin_username:
 
